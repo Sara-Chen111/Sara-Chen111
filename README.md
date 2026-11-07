@@ -14,7 +14,7 @@
 
 - **[WAIC 2026 参展笔记](https://sara-chen111.github.io/waic-2026-field-notes/)** — 把 900+ 家展商、现场影像和参展心得整理成一份可搜索的观展手记。([源码](https://github.com/Sara-Chen111/waic-2026-field-notes))
 - **[2026 东京·箱根·河口湖 5 日行程册](https://sara-chen111.github.io/tokyo-hakone-kawaguchiko-2026/)** — 两个人的五日行程册：地图、交通与每日安排。([源码](https://github.com/Sara-Chen111/tokyo-hakone-kawaguchiko-2026))
-- **Yondoo** — 语音探索伙伴 Agent 原型（私有项目，欢迎邮件交流）。
+- **Yondoo** — 语音探索伙伴 Agent 原型（私有项目）。
 
 ## 🗂 关于这里的分类
 
